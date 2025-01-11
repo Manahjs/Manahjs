@@ -4,7 +4,7 @@ I’m highly proficient in programming languages such as Python and R, and I hav
 
 My goal is to continue leveraging data to address complex challenges and help organizations make informed, data-backed decisions.
 
-- data scientiest at MLPL
+- data scientiest at MLPL (CURRENTLLY )
 - I’m interested in . data science aiml and genai, python rag and llm models ..
 - 🌱 I’m currently intern at nareshit before that i am data science intern at IBM ...
 - 💞️ I’m looking to collaborate on  projects rea...
